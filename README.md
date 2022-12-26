@@ -23,3 +23,5 @@ FUNCTIONS:
   4. Delete a todo item
   5. Mark a todo item as completed
   6. Generate a report
+
+![Untitled 1-1](https://user-images.githubusercontent.com/67867470/209507940-7010c033-f8d6-494d-bad2-0dd86d758c9b.png)
